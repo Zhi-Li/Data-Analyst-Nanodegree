@@ -1,2 +1,2 @@
 # Data-Analyst-Nanodegree
-These are my projects in Udacity Data Analyst Nanodegree. Take a look ; )
+My Project P3 of Udacity Data Analyst NanoDegree(DAND). Take a look ; )
