@@ -5,7 +5,7 @@ My Project P3 of Udacity Data Analyst NanoDegree(DAND). Take a look ; )
 > Chose a region and used data munging techniques to assess the quality of the data for validity, accuracy, completeness, consistency and uniformity.
 
 ### Core Techniques: 
->  - Python 
+>  - Python
 >  - Data verification
 >  - Data cleaning
 
