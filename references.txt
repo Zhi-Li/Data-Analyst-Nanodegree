@@ -1,0 +1,11 @@
+Websites:
+1. https://wiki.openstreetmap.org/wiki/OSM_XML#Basics
+2. https://en.wikipedia.org/wiki/Hong_Kong
+3. https://en.wikipedia.org/wiki/Hong_Kong#Etymology
+3. https://discussions.udacity.com/t/how-to-clean-the-data/249323
+4. https://discussions.udacity.com/t/a-question-about-the-scope-of-data-cleaning/161724
+5. https://en.wikipedia.org/wiki/Ontology
+6. http://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html
+	
+Books:
+1.	Learning Python 5th Edition Mark Lutz
